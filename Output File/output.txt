@@ -1,0 +1,35 @@
+Exam 1 Grades: 
+90 75 65 85 60 70 
+80 95 65 70 75 80 
+90 75 65 75 80 55 
+75 65 
+
+
+Exam 2 Grades: 
+75 80 70 90 65 75 
+85 60 70 85 85 90 
+95 80 80 85 90 95 
+80 80 
+
+
+Exam 3 Grades: 
+95 85 90 95 70 80 
+55 75 75 90 90 95 
+55 90 95 90 95 65 
+90 95 
+
+
+Weighted Averages: 
+26.25 24.5 23.75 27.5 20 23 
+20.75 22 21.5 25.5 25.75 27.25 
+22.25 25.25 25.5 25.75 27.25 22 
+25.25 25.5 
+
+
+The lowest grade in exam 1 is 55 at position 17
+
+
+The lowest grade in exam 2 is 60 at position 7
+
+
+The lowest grade in exam 3 is 55 at position 12
